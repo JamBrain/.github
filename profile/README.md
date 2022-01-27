@@ -1,4 +1,4 @@
-Jammer Core is the software that powers [Ludum Dare](https://github.com/ludumdare) game jam events.
+Jammer Core is the software that powers [Ludum Dare](https://github.com/ludumdare) events.
 
 * [JammerCore](https://github.com/JammerCore/JammerCore) - The main project (formerly known as `ludumdare`)
 * [DairyBox](https://github.com/JammerCore/DairyBox) - Vagrant powered virtual machine required for locally testing Jammer Core
