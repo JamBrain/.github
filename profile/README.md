@@ -1,7 +1,7 @@
-Jammer Core is the software that powers [Ludum Dare](https://github.com/ludumdare) events.
+JamBrain is the software that powers the [Ludum Dare](https://github.com/ludumdare) game jam event.
 
-* [JammerCore](https://github.com/JammerCore/JammerCore) - The main project (formerly known as `ludumdare`)
-* [DairyBox](https://github.com/JammerCore/DairyBox) - Vagrant powered VM used for locally testing Jammer Core changes
+* [JamBrain](https://github.com/JamBrain/JamBrain) - The main project (formerly `JammerCore`)
+* [DairyBox](https://github.com/JamBrain/DairyBox) - Vagrant powered VM used for locally testing JamBrain changes
 
-### Powered by Jammer Core
+### Powered by JamBrain
 * [ldjam.com](https://ldjam.com) - the Ludum Dare event website
